@@ -1,21 +1,21 @@
 # Diabète.ma
 
-A modern web application for the **Diabète.ma** project, built with React and Vite.
+Application web moderne développée pour le projet **Diabète.ma**, basée sur React et Vite.
 
-## Overview
+## Présentation
 
-This project focuses on delivering a clear and accessible web interface for diabetes-related information and services. The application is organized as a React frontend with a dedicated API layer and SQL database structure.
+Ce projet vise à proposer une interface claire et accessible autour de l’information et des services liés au diabète. L’application est organisée autour d’un frontend React, d’une couche API et d’une structure de données SQL.
 
-## Features
+## Fonctionnalités
 
-- React-based user interface
-- Component-based frontend architecture
-- Dedicated API directory
-- SQL database structure
-- Responsive web experience
-- Vite development and production build workflow
+- Interface utilisateur développée avec React
+- Architecture frontend basée sur des composants
+- Dossier API dédié
+- Structure de base de données SQL
+- Interface responsive
+- Workflow de développement et de build avec Vite
 
-## Tech Stack
+## Technologies utilisées
 
 - React 18
 - JavaScript
@@ -24,31 +24,31 @@ This project focuses on delivering a clear and accessible web interface for diab
 - API
 - SQL / MySQL
 
-## Project Structure
+## Structure du projet
 
-- `src/` — React application source code
-- `public/` — static assets
-- `api/` — backend/API resources
-- `diabete_ma.sql` — database structure
-- `vite.config.js` — Vite configuration
+- `src/` — code source de l’application React
+- `public/` — ressources statiques
+- `api/` — ressources backend/API
+- `diabete_ma.sql` — structure de la base de données
+- `vite.config.js` — configuration Vite
 
-## Getting Started
+## Installation
 
 ```bash
 npm install
 npm run dev
 ```
 
-For a production build:
+Pour générer une version de production :
 
 ```bash
 npm run build
 npm run preview
 ```
 
-## Author
+## Auteur
 
 **Marouane El Khayati**  
-Full Stack Web Developer
+Développeur Web Full Stack
 
 [GitHub](https://github.com/marouanex06)
